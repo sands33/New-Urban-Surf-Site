@@ -1,0 +1,144 @@
+body { 
+    height: 1136px;
+    width: 640px;
+}
+
+
+#landing {
+    width: 90%;
+    height: 10%;
+}
+
+#landingLeft {
+    width: 45%;
+    height: auto;
+    float: left;
+    clear: both;
+    margin: 2% 0 0 4%;
+}
+
+#landingLogo {
+    width: 90%;
+    height: auto;
+}
+
+#landingRight {
+    width: 40%;
+    height: 90%;
+    float: left;
+    clear: none;
+    margin: 3% 2% 2% 8%;
+}
+
+#landingIcon1 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+#landingIcon2 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+#landingIcon3 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+#landingIcon4 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+#landingIcon5 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+#landingIcon6 {
+    width: 10%;
+    height: auto;
+    margin: 2%;
+}
+
+.aboveFold { 
+    height: 30%;
+    width: 90%;
+    margin-top: 2%;
+}
+
+.topImage {
+    width: 80%;
+    height: auto;
+    margin: 0 2% 0% 4%;
+}
+
+#belowFold { 
+    height: 55%;
+    width: 96%;
+    margin: 2% 2% 0 2%;
+}
+
+#bottomImage1 {
+   
+    width: 35%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    clear: both;
+    border-style: solid;
+}
+
+#bottomImage2 {
+   
+    width: 35%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    clear: none;
+    border-style: solid;
+    
+}
+
+#bottomImage3 {
+    
+    width: 35%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    clear: both;
+    border-style: solid;
+}
+
+#bottomImage4 {
+   
+    width: 35%;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+    clear: none;
+    border-style: solid;
+    
+}
+
+#footnotes { 
+    width: 95%;
+    font-size: .5em;
+}
+
+#footer { 
+    width: 95%;
+}
+
+a:link    {color:black; background-color:transparent; text-decoration:none}
+a:visited {color:grey; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:turquoise; background-color:transparent; text-decoration:underline}
+
+
+
